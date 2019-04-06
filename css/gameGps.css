@@ -1,0 +1,16 @@
+#gameGps{
+    width: 100vw;
+    height: 100vh;
+}
+#gameGpsLotto{
+    display: flex;
+    justify-contennpm install gulp-sasst: space-between;
+    outline: 2px red solid;
+    width: 400px;
+}
+#gameGpsLotto .gameGpsLottoUnit{
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: #f00;
+}
